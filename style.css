@@ -1,0 +1,46 @@
+body
+{
+	display: flex;
+	width: 70%;
+    
+}
+
+.gauche
+{
+	width: 30%;
+	height: 100%;
+	background-color: #546E7A;
+	margin-left: 200px;
+}
+
+.gauche h2
+{
+	background-color: #4DD0E1;
+	text-align: center;
+	color: #455A64;
+}
+
+.gauche p
+{
+	margin: 50px 50px 50px 50px;
+	text-align: justify;
+	color: #4DD0E1;
+
+}
+
+
+.fas
+{
+	color: #4DD0E1;
+
+}
+
+.icon
+{
+	
+
+}
+
+
+
+
