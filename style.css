@@ -9,13 +9,18 @@
 }
 
 
+/* partie gauche */
+
 body
 {
-	display: flex;
 	width: 70%;
     
 }
 
+main
+{
+	display: flex;
+}
 .gauche
 {
 	width: 30%;
@@ -39,6 +44,13 @@ body
 
 }
 
+#image
+{
+	border: 4px solid #4DD0E1;
+	border-radius: 50%;
+	overflow: hidden;
+	background-color: black;
+}
 
 .fas
 {
@@ -46,11 +58,87 @@ body
 
 }
 
-.icon
+
+#loisir
 {
-	
+	display: flex;
+	flex-direction: column;
 
 }
+#icon
+{
+	margin: auto;
+}
+
+
+/*partie droite*/
+
+.droite
+{
+	margin-left: 60px;
+	margin-top: 30px;
+
+}
+
+.hdroite h1
+{
+	font-size: 50px;
+}
+
+h1 .h1color
+{
+	color: #4DD0E1;
+}
+
+.formation
+{
+	display: flex;
+}
+
+.format, .prof
+{
+	margin-left: 80px;
+	text-align: justify; 
+}
+
+.formation p, .pro p
+{
+	display: flex;
+
+}
+
+.far
+{
+	color: #4DD0E1;
+}
+
+.droite .borderh2 h2
+{
+	border-bottom: 1.5px solid #4DD0E1;
+}
+
+#exp .pro
+{
+	display: flex;
+}
+
+.recom0
+{
+	display: flex;
+}
+
+.recom2
+{
+	margin-left: 80px;
+}
+
+
+
+
+
+
+
+
 
 
 
