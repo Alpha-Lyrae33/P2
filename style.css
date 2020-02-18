@@ -86,7 +86,6 @@ img
 #icon
 {
 	margin: auto;
-	margin-bottom: 20px;
 }
 
 
@@ -96,7 +95,7 @@ img
 {
 	width: 75%;
 	margin-left: 3%;
-	margin-top: 2%;
+	margin-top: 1%;
 	margin-right: 3%;
 	font-family: WebFont, sans-serif, Arial;
 
@@ -144,6 +143,7 @@ h1 .h1color
 .date, .pro1
 {
 	width: 25%;
+	font-weight: bold;
 }
 
 .format, .prof
