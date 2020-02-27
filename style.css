@@ -258,6 +258,10 @@ h1 .h1color
 		text-align: center;
 	}
 
+	.pro1
+	{
+		width: 90%;
+	}
 
 
 }
@@ -265,7 +269,10 @@ h1 .h1color
 
 @media screen and (max-width: 340px)
 {
-
+	h1
+	{
+		font-size: 50px;
+	}
 }
 
 
