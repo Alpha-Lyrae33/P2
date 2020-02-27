@@ -59,6 +59,7 @@ main
 	margin: auto;
 }
 
+
 img
 {
 	border: 4px solid #4DD0E1;
@@ -176,7 +177,7 @@ h1 .h1color
 	font-size: 20px;
 }
 
-.droite .borderh2 h2
+.droite article h2
 {
 	border-bottom: 1.5px solid #4DD0E1;
 }
