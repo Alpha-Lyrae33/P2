@@ -71,10 +71,14 @@ img
 	margin-top: 5%;
 }
 
-.fas
+.gauche .fas
 {
 	color: #4DD0E1;
-	padding-left: 20px;
+	padding-left: auto;
+	border: 3px solid ;
+	border-radius: 50%;
+	padding: 15px;
+
 }
 
 
@@ -109,6 +113,7 @@ img
 	margin-right: 20px;
 	margin-bottom: 10px;
 	padding-left: 0px;
+	color: #4DD0E1;
 }
 
 .hdroite h1
