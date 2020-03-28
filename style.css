@@ -78,6 +78,7 @@ img
 	border: 3px solid ;
 	border-radius: 50%;
 	padding: 15px;
+	margin-left: 5px;
 
 }
 
@@ -91,6 +92,7 @@ img
 #icon
 {
 	margin: auto;
+	display: flex;
 }
 
 
